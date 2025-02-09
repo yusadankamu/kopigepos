@@ -13,9 +13,18 @@
 
 **A modern, lightning-fast Point of Sale system built with Vite.js and Firebase**
 
-[Demo](https://kopige-pos.web.app) · [Report Bug](https://github.com/yusadankamu/kopigePOS/issues) · [Request Feature](https://github.com/yusadankamu/kopigePOS/issues)
+[Demo](https://kopigepos.vercel.app/login) · [Report Bug](https://github.com/yusadankamu/kopigePOS/issues) · [Request Feature](https://github.com/yusadankamu/kopigePOS/issues)
 
 </div>
+
+## 🔑 Demo Access
+
+Try out the [live demo](https://kopige-pos.web.app) with these credentials:
+
+```
+Email: sayu@gmail.com
+Password: sayu123
+```
 
 ## ✨ Features
 
@@ -32,26 +41,22 @@
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-
 ```bash
 git clone https://github.com/yusadankamu/kopigePOS.git
 cd kopigePOS
 ```
 
 2. **Install dependencies**
-
 ```bash
 npm install
 ```
 
 3. **Set up Firebase**
-
 - Create a Firebase project
 - Copy your Firebase config
 - Create `.env` file and add your Firebase credentials
 
 4. **Start development server**
-
 ```bash
 npm run dev
 ```
